@@ -1,5 +1,5 @@
 ### Hello, folks! 👋
-![](/images/github_readme_pic.jpg)
+![](/images/https://github.com/harsicha/images/blob/main/github_readme_pic.jpg)
 <!--
 **harsicha/harsicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
