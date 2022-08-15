@@ -1,5 +1,23 @@
-### Hello, folks! 👋
-![](/images/https://github.com/harsicha/images/blob/main/github_readme_pic.jpg)
+![github_readme_pic1](https://user-images.githubusercontent.com/16000485/184645002-d4d2bf06-e3c2-4e93-9961-741fa834bf77.jpg)
+## Hello, folks! 👋
+I am a Software Engineer specializing in backend engineering.
+
+Few languages which I know:
+- Java
+- C#
+- Javascript
+
+Few technologies I've worked on:
+- Backend
+  - ASP.Net core
+  - Node/Express
+  - Java Servlet
+- Frontend  
+  - React
+- Database  
+  - SQL
+  - MongoDB
+
 <!--
 **harsicha/harsicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
