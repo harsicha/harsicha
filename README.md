@@ -9,7 +9,7 @@ Few languages which I know:
 
 Few technologies I've worked on:
 - Backend
-  - ASP.Net core
+  - ASP.Net Core MVC
   - Node/Express
   - Java Servlet
 - Frontend  
